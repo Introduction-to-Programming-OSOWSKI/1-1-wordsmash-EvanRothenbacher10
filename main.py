@@ -1,4 +1,4 @@
 def wordSmash(a, b):
     print(a + b)
 
-wordSmash("fortnite ", "dingle")
+wordSmash("Cat", "Dog")
